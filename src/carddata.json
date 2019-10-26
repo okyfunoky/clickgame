@@ -1,10 +1,12 @@
 [
     {
         "id": 0,
-        "name": "Captain America"
+        "name": "Captain America",
+        "imgSrc": "https://cdn3.movieweb.com/i/article/pgcFyKTA1rTFYcnUxDhHlAoGzZuDbP/738:50/Avengers-Endgame-Captain-America-Time-Travel-Explained.jpg"
     },
     {
         "id": 1,
-        "name": "Iron Man"
+        "name": "Iron Man",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLc990nO9bYCpbzEGpRdV_JLaas5pF8zkcmCA2wIS_r0RO39Zd"
     }   
 ]

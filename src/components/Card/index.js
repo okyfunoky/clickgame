@@ -3,8 +3,10 @@ import './style.css'
 
 function Card(props){
     return(
-        <div>
-            <p>{props.word}</p>
+        <div className="card">
+            <div className="img-container">
+                <img alt={props.data.name} src={props.data.imgSrc}/>
+            </div>
         </div>
     )
 }
