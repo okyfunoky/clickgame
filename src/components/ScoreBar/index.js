@@ -5,10 +5,10 @@ function ScoreBar(props) {
     return (
         <div>
             <h2 className="scorebar">
-                {/* High Score: {props.data.highScore} */}
+                High Score: {props.highScore}
             </h2>
             <h2 className="scorebar">
-                {/* Current Score: {props.data.currentScore} */}
+                Current Score: {props.score}
             </h2>
         </div>
     )
